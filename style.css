@@ -1,0 +1,4 @@
+.logo {
+    display: block; /* Para tornar a imagem um bloco e permitir a definição de margens */
+    margin: 20px auto; /* Margem superior e inferior de 20px, e centraliza horizontalmente */
+}
