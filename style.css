@@ -1,6 +1,8 @@
 .logo {
-    display: block; /* Para tornar a imagem um bloco e permitir a definição de margens */
-    margin: 10px auto; /* Margem superior e inferior de 20px, e centraliza horizontalmente */
-    width: 10px; /* Defina a largura desejada */
-    height: auto; /* Mantém a proporção da imagem */
+    display: block;
+    margin: 20px auto;
+    width: 10px;
+    height: auto;
 }
+
+/* Adicione estilos adicionais conforme necessário */
