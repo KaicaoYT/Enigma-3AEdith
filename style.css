@@ -5,4 +5,16 @@
     height: auto;
 }
 
-/* Adicione estilos adicionais conforme necessário */
+
+.flex-container {
+    display: flex;
+    align-items: center; /* Centraliza verticalmente */
+}
+
+.logo {
+    width: 100px;
+    height: auto;
+    margin-right: 10px; /* Ajusta a margem direita para separar a imagem do subtítulo */
+}
+
+/* Estilos adicionais conforme necessário */
